@@ -1,0 +1,23 @@
+{
+  "name": "nowpaco",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bulma": "^0.7.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeFinancier/PacoJapon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeFinancier/PacoJapon/issues"
+  },
+  "homepage": "https://github.com/LeFinancier/PacoJapon#readme"
+}
