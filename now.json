@@ -8,6 +8,5 @@
   ],
   "routes": [
     {"src": "/index", "dest": "/index.js"}
-  ],
-  "alias": ["pacojp.now.sh"]
+  ]
 }
