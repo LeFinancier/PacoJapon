@@ -12,7 +12,7 @@ class App extends Component {
           <div className=" tile is-vertical is-8">
             <div className="tile">
               <div className="tile is-parent is-vertical">
-                <article className="tile is-child notification is-primary">Guía de viaje para Paco con </article>
+                <article className="tile is-child notification is-primary">Guía de viaje para Paco con Bulma</article>
               </div>
             </div>
           </div>
