@@ -3,8 +3,10 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+import 'bulma/css/bulma.css'
 
 ReactDOM.render(<App />, document.getElementById('root'));
+console.log('Hola')
 
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.
